@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi,I'm Yeamin, you can call me "code lover"😎</h1>
+
 <h3 align="center">frontend developer</h3>
 
 - 🌱 I’m currently learning **TS, react native, redux**
