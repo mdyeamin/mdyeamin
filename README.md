@@ -1,5 +1,13 @@
+
+<h3 align="center">Hi , I'm Yeamin <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h3>
+<h2 align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Web+developer+;API+developer;user+interface+(UI);user+experience+(UX);Competitive+Programmer;DS%20|%20Algorithms%20|%20OOP%20;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+</h2>
+
+
+
 <p align="left">
-  <img alt="" style="{max-height: 0px}" src="https://raw.githubusercontent.com/osod/main/assets/header/Tapelight%20Studio.png">
+  <img alt="" style="{max-height: 0px}" src="srity/chuck-fortner-LFVBohYmtgc-unsplash (1).png">
 </p>
 
 <!--- portfolio launch image --->
@@ -8,15 +16,6 @@
   
   
   
-  
-  
-<h3 align="center">Hi , I'm Yeamin <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h3>
-<h2 align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Web+developer+;API+developer;user+interface+(UI);user+experience+(UX);Competitive+Programmer;DS%20|%20Algorithms%20|%20OOP%20;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
-</h2>
-
-
-
 
 <br>
 
