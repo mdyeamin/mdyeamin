@@ -62,12 +62,12 @@
 
 <h3>'A infinity study moment :  🎊💓'</h3>
 
-<p>  
+<h5>  
 I am a Frontend web Developer with the skill HTML, CSS, bootstrap, Material UI, Javascript, React.js, etc.
 And I'm trying to learn backend MongoDB, express.js, node.js
 I did some work in the backend,
 I hope to become a full-stack developer very soon
-</p>
+</h5>
 I'm a Frontend web developer and Fancy web designer. I started building websites in 2020. I know how to make an appealing website. Though I am a junior Developer and designer but I am very Confident about my work .
   
 
