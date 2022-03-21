@@ -16,7 +16,7 @@
 
 
 <p align="left">
-  <img alt="" style="{max-height: 0px}" src="srity/header.png">
+  <img alt="" style="{max-height: 0px}" src="srity/header.jpg">
 </p>
 <div align="center">
 <!--- portfolio launch image --->
