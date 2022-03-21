@@ -1,6 +1,6 @@
 
 
-<h3 align="center">frontend developer</h3>
+<h3 align="center">frontend developer 💻</h3>
 
 - 🌱 I’m currently learning **TS, react native, redux**
 
