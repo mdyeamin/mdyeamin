@@ -39,14 +39,14 @@
 
 <hr>
 <p align="center">
-  <img width="400px" src="https://github-readme-stats.vercel.app/api?username=ossamamehmood&count_private=true&show_icons=true&theme=material-palenight&hide_border=true&bg_color=1F222E" />
-  <img width="400px" src="https://github-readme-streak-stats.herokuapp.com?user=ossamamehmood&theme=material-palenight&hide_border=true&fire=C77800&ring=7C2AE8&background=1F222E" />
+  <img width="400px" src="https://github-readme-stats.vercel.app/api?username=mdyeamin&count_private=true&show_icons=true&theme=material-palenight&hide_border=true&bg_color=1F222E" />
+  <img width="400px" src="https://github-readme-streak-stats.herokuapp.com?user=mdyeamin&theme=material-palenight&hide_border=true&fire=C77800&ring=7C2AE8&background=1F222E" />
 </p>
 <div align="center"> <img src="https://raw.githubusercontent.com/muhiqsimui/muhiqsimui/output/github-contribution-grid-snake.svg" /></div>
 
 <!--- building footer with spaceship question --->
 ![footer](https://user-images.githubusercontent.com/60597290/152518980-fa55fbc8-81fe-4bba-bf52-21320455e217.png)
-<span align="center">
+<p align="center">
 <img height="50" src="https://user-images.githubusercontent.com/60597290/152519754-992acfbc-39df-489d-a01a-72ea86a08996.png" />
-</span>
+</p>
 
