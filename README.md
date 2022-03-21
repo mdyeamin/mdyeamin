@@ -1,4 +1,15 @@
+<p align="left">
+  <img alt="" style="{max-height: 0px}" src="./assets/header/Tapelight Studio.png">
+</p>
 
+<!--- portfolio launch image --->
+<a href="http://www.ossamamehmood.me">
+  <img height="300" src="https://user-images.githubusercontent.com/60597290/151966205-54a50cb6-2401-49bc-992c-dd926c8ecd09.svg"/>
+  
+  
+  
+  
+  
 <h3 align="center">Hi , I'm Yeamin <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h3>
 <h2 align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Web+developer+;API+developer;user+interface+(UI);user+experience+(UX);Competitive+Programmer;DS%20|%20Algorithms%20|%20OOP%20;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
