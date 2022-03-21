@@ -1,10 +1,10 @@
 
 <!-- <h3 align="center">Hi , I'm Yeamin <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h3> -->
-<div align="center">
+<div align="center"></div>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&duration=5000&color=FF58C4&center=true&width=500&lines=I+a'm, MD+YEAMIN+%EC%83%98;You+Can+Call+Me;Digital+Creator;Graphic+Designer+;User+Interface+(UI);User+Experience+(UX))](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&duration=2000&color=FF58C4&center=true&width=500&lines=OSSAMA+MEHMOOD+%EC%83%98;Software+Engineer;Digital+Creator;Graphic+Designer+;User+Interface+(UI);User+Experience+(UX))](https://git.io/typing-svg)
 
-<h2  style="font-size:50px">
+<h2 align="center">
   <a href="https://github.com/mdyeamin"><img src="https://readme-typing-svg.herokuapp.com?lines=Web+developer+;API+developer;user+interface+(UI);user+experience+(UX);Competitive+Programmer;DS%20|%20Algorithms%20|%20OOP%20;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </h2>
 </div>
