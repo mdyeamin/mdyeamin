@@ -9,10 +9,11 @@
 <p align="left">
   <img alt="" style="{max-height: 0px}" src="srity/header.png">
 </p>
-
+<div align="center">
 <!--- portfolio launch image --->
 <a href="https://mdyeamin.netlify.app/">
   <img height="300" src="https://user-images.githubusercontent.com/60597290/151966205-54a50cb6-2401-49bc-992c-dd926c8ecd09.svg"/>
+</div>
   
   
   
