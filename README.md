@@ -4,7 +4,7 @@
   <a href="https://github.com/mdyeamin"><img src="https://readme-typing-svg.herokuapp.com?lines=Web+developer+;API+developer;user+interface+(UI);user+experience+(UX);Competitive+Programmer;DS%20|%20Algorithms%20|%20OOP%20;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </h2>
 
-
+![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 
 <p align="left">
   <img alt="" style="{max-height: 0px}" src="srity/header.png">
