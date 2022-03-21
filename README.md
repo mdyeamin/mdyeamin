@@ -12,8 +12,8 @@
 <div align="center">
 <!--- portfolio launch image --->
 <a href="https://mdyeamin.netlify.app/">
-  <img height="300" src="srity/github.png"/>
-  <img height="300" src="srity/coderwife.png"/>
+  <img height="300" src="srity/coder_husbend.png"/>
+  <img height="300" src="srity/coder_wife.png"/>
 </div>
   
   
