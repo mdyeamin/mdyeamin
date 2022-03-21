@@ -1,5 +1,5 @@
 <p align="left">
-  <img alt="" style="{max-height: 0px}" src="https://raw.githubusercontent.com/ossamamehmood/ossamamehmood/main/assets/header/Tapelight%20Studio.png">
+  <img alt="" style="{max-height: 0px}" src="https://raw.githubusercontent.com/osod/main/assets/header/Tapelight%20Studio.png">
 </p>
 
 <!--- portfolio launch image --->
