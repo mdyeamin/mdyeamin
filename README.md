@@ -87,6 +87,10 @@ I'm a Frontend web developer and Fancy web designer. I started building websites
   `Linktree` -> <a href="https://linktr.ee/ossamamehmood" target="_blank">`Ossama Mehmood`</a> -->
   
   <!--- adding 3D earth icon to show some love for the environment 🌏 --->
+
+  <!-- most used language  -->
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdyeamin&theme=tokyonight) |
+
   <div align="center">
 <img height="40" src="srity/152370900-69dce999-2e00-4227-9547-917fa1a4b06e.png" />
   </div>
@@ -99,9 +103,9 @@ I'm a Frontend web developer and Fancy web designer. I started building websites
 <div align="center"> <img src="https://raw.githubusercontent.com/muhiqsimui/muhiqsimui/output/github-contribution-grid-snake.svg" /></div>
 
 
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdyeamin&theme=tokyonight) |
 
- ![Github Stars](https://github-readme-stats.vercel.app/api?username=mdyeamin&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
+
+ <!-- ![Github Stars](https://github-readme-stats.vercel.app/api?username=mdyeamin&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) | -->
 
 <!--- building footer with spaceship question --->
 ![footer](https://user-images.githubusercontent.com/60597290/152518980-fa55fbc8-81fe-4bba-bf52-21320455e217.png)
