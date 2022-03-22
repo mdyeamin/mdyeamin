@@ -96,7 +96,7 @@ I'm a Frontend web developer and Fancy web designer. I started building websites
 <hr>
 
   <!-- most used language  -->
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdyeamin&theme=tokyonight) |
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdyeamin&theme=tokyonight)
 
 <p align="center">
   <img width="400px" src="https://github-readme-stats.vercel.app/api?username=mdyeamin&count_private=true&show_icons=true&theme=material-palenight&hide_border=true&bg_color=1F222E" />
