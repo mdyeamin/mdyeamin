@@ -3,7 +3,7 @@
 <div align="center">
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&duration=4000&color=FF58C4&center=true&width=500&lines=Hi,+I'm+Md+Yeamin...💻;You+Can+Call+Me...;JavaScript+Lover...❤;thank+you+so+much+for;following+my+GitHub🥰)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&duration=4000&color=FF58C4&center=true&width=500&lines=Hi,+I'm+Md+Yeamin...💻;You+Can+Call+Me...;JavaScript+Lover...❤;Thank+you+so+much+for;Following+my+GitHub🥰)](https://git.io/typing-svg)
   
 
 
@@ -11,7 +11,7 @@
 
 
 <h2 align="center">
-  <a href="https://github.com/mdyeamin"><img src="https://readme-typing-svg.herokuapp.com?lines=MERN+developer+;API+developer;Frontend+developer;user+interface+(UI);user+experience+(UX);Competitive+Programmer;DS%20|%20Algorithms%20|%20OOP%20;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+  <a href="https://github.com/mdyeamin"><img src="https://readme-typing-svg.herokuapp.com?lines=MERN+Stack+developer+;API+developer;Frontend+developer;user+interface+(UI);user+experience+(UX);Competitive+Programmer;DS%20|%20Algorithms%20|%20OOP%20;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </h2>
 </div>
 
@@ -97,6 +97,11 @@ I'm a Frontend web developer and Fancy web designer. I started building websites
   <img width="400px" src="https://github-readme-streak-stats.herokuapp.com?user=mdyeamin&theme=material-palenight&hide_border=true&fire=C77800&ring=7C2AE8&background=1F222E" />
 </p>
 <div align="center"> <img src="https://raw.githubusercontent.com/muhiqsimui/muhiqsimui/output/github-contribution-grid-snake.svg" /></div>
+
+
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdyeamin&theme=tokyonight) |
+
+ ![Github Stars](https://github-readme-stats.vercel.app/api?username=mdyeamin&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
 
 <!--- building footer with spaceship question --->
 ![footer](https://user-images.githubusercontent.com/60597290/152518980-fa55fbc8-81fe-4bba-bf52-21320455e217.png)
