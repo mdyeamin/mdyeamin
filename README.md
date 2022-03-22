@@ -2,7 +2,7 @@
 <!-- <h3 align="center">Hi , I'm Yeamin <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h3> -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&duration=4000&color=FF58C4&center=true&width=500&lines=Hi,+I+a'm+MD+YEAMIN...;You+Can+Call+Me...;JavaScript+Lover...❤)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&duration=4000&color=FF58C4&center=true&width=500&lines=Hi,+I+a'm+Md+Yeamin...💻;You+Can+Call+Me...;JavaScript+Lover...❤)](https://git.io/typing-svg)
   
 
 
@@ -72,7 +72,18 @@ I'm a Frontend web developer and Fancy web designer. I started building websites
   
 
 </div>
-
+ <!--- Portfolio/Website --->  
+  
+<h1 align="center">
+    Portfolio/Website
+    </h2>
+  
+  `Personal Website` -> <a href="https://mdyeamin.netlify.app/" target="_blank">`Md Yeamin`</a>
+  
+   `Behance (Portfolio)` -> <a href="https://www.behance.net/ossamamehmood" target="_blank">`Ossama Mehmood`</a>
+  
+  `Linktree` -> <a href="https://linktr.ee/ossamamehmood" target="_blank">`Ossama Mehmood`</a>
+  
   <!--- adding 3D earth icon to show some love for the environment 🌏 --->
   <div align="center">
 <img height="40" src="https://user-images.githubusercontent.com/60597290/152370900-69dce999-2e00-4227-9547-917fa1a4b06e.png" />
