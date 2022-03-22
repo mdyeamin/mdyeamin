@@ -58,7 +58,7 @@
   ABOUT ME
 </h1>
   
-<img width="105" height="105" src="https://raw.githubusercontent.com/ossamamehmood/ossamamehmood/main/assets/icons/boy.png" />
+<img width="105" height="105" src="srity/boy.png" />
 
 <h3>'A infinity study moment :  🎊💓'</h3>
 
