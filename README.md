@@ -87,7 +87,7 @@ I'm a Frontend web developer and Fancy web designer. I started building websites
   
   <!--- adding 3D earth icon to show some love for the environment 🌏 --->
   <div align="center">
-<img height="40" src="https://user-images.githubusercontent.com/60597290/152370900-69dce999-2e00-4227-9547-917fa1a4b06e.png" />
+<img height="40" src="srity/152370900-69dce999-2e00-4227-9547-917fa1a4b06e.png" />
   </div>
 
 <hr>
