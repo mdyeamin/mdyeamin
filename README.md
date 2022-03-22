@@ -30,7 +30,7 @@
 
 <br>
 
-- 🌱 I’m currently learning **TS, react native, redux**
+<!-- - 🌱 I’m currently learning **TS, react native, redux**
 
 - 👨‍💻 All of my projects are available at [https://mdyeamin.netlify.app/](https://mdyeamin.netlify.app/)
 
@@ -38,7 +38,7 @@
 
 - 💬 Ask me about **react,TS,JS**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1VY0HU-u08JcHzFz_YsekAbUs4G3fW4Pc/view?usp=sharing](https://drive.google.com/file/d/1VY0HU-u08JcHzFz_YsekAbUs4G3fW4Pc/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1VY0HU-u08JcHzFz_YsekAbUs4G3fW4Pc/view?usp=sharing](https://drive.google.com/file/d/1VY0HU-u08JcHzFz_YsekAbUs4G3fW4Pc/view?usp=sharing) -->
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
