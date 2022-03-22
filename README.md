@@ -80,9 +80,9 @@ I'm a Frontend web developer and Fancy web designer. I started building websites
   
   `Personal Website` -> <a href="https://mdyeamin.netlify.app/" target="_blank">`Md Yeamin`</a>
   
-   `Behance (Portfolio)` -> <a href="https://www.behance.net/ossamamehmood" target="_blank">`Ossama Mehmood`</a>
+   <!-- `Behance (Portfolio)` -> <a href="https://www.behance.net/ossamamehmood" target="_blank">`Md Yeamin`</a>
   
-  `Linktree` -> <a href="https://linktr.ee/ossamamehmood" target="_blank">`Ossama Mehmood`</a>
+  `Linktree` -> <a href="https://linktr.ee/ossamamehmood" target="_blank">`Ossama Mehmood`</a> -->
   
   <!--- adding 3D earth icon to show some love for the environment 🌏 --->
   <div align="center">
