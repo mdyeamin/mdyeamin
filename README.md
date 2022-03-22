@@ -106,13 +106,7 @@ I'm a Frontend web developer and Fancy web designer. I started building websites
 
   `Code Education` -> <a href="https://procodeeducation.netlify.app/" target="_blank">`website`</a>|
   `frontend` -> <a href="https://github.com/mdyeamin/review-website-react" target="_blank">`Github code`</a>|
-  <!-- `backend` -> <a href="https://github.com/mdyeamin/-niche-website-server-side" target="_blank">`Github code`</a> -->
   
-   <!-- `Behance (Portfolio)` -> <a href="https://www.behance.net/ossamamehmood" target="_blank">`Md Yeamin`</a>
-  
-  `Linktree` -> <a href="https://linktr.ee/ossamamehmood" target="_blank">`Ossama Mehmood`</a> -->
-  
-  <!--- adding 3D earth icon to show some love for the environment 🌏 --->
 
 
   <div align="center">
