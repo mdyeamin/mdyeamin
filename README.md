@@ -2,6 +2,7 @@
 <!-- <h3 align="center">Hi , I'm Yeamin <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h3> -->
 <div align="center">
 <div align="center">
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&duration=4000&color=FF58C4&center=true&width=500&lines=Hi,+I+a'm+Md+Yeamin...💻;You+Can+Call+Me...;JavaScript+Lover...❤)](https://git.io/typing-svg)
   
 
