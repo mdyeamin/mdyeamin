@@ -132,7 +132,7 @@ I'm a Frontend web developer and Fancy web designer. I started building websites
 
 <!--- building footer with spaceship question --->
 ![footer](srity/hey.gif)
-![footer](srity/did.gif)
+
 <p align="center">
 <img height="50" src="https://user-images.githubusercontent.com/60597290/152519754-992acfbc-39df-489d-a01a-72ea86a08996.png" />
 </p>
