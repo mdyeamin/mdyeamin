@@ -3,7 +3,7 @@
 <div align="center">
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&duration=4000&color=FF58C4&center=true&width=500&lines=Hi,+I+a'm+Md+Yeamin...💻;You+Can+Call+Me...;JavaScript+Lover...❤;thank+you+so+much+for;following+my+GitHub🥰)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&duration=4000&color=FF58C4&center=true&width=500&lines=Hi,+I'm+Md+Yeamin...💻;You+Can+Call+Me...;JavaScript+Lover...❤;thank+you+so+much+for;following+my+GitHub🥰)](https://git.io/typing-svg)
   
 
 
@@ -11,7 +11,7 @@
 
 
 <h2 align="center">
-  <a href="https://github.com/mdyeamin"><img src="https://readme-typing-svg.herokuapp.com?lines=Web+developer+;API+developer;user+interface+(UI);user+experience+(UX);Competitive+Programmer;DS%20|%20Algorithms%20|%20OOP%20;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+  I'm a<a href="https://github.com/mdyeamin"><img src="https://readme-typing-svg.herokuapp.com?lines=Web+developer+;API+developer;user+interface+(UI);user+experience+(UX);Competitive+Programmer;DS%20|%20Algorithms%20|%20OOP%20;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </h2>
 </div>
 
