@@ -98,8 +98,8 @@ I'm a Frontend web developer and Fancy web designer. I started building websites
   <!-- most used language  -->
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdyeamin&theme=tokyonight)
 
- <!-- cart -->
- [![Aditya's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mdyeamin&theme=tokyonight)](https://git.io/praveenscience)
+ <!-- chart -->
+<a href="#"><img alt="Aditya Sharma's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=extinctsion&bg_color=1F222E&color=ffffff&line=f08c2d&point=444040&area=true&hide_border=true" /></a>
 
 <p align="center">
   <img width="400px" src="https://github-readme-stats.vercel.app/api?username=mdyeamin&count_private=true&show_icons=true&theme=material-palenight&hide_border=true&bg_color=1F222E" />
