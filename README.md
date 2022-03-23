@@ -1,9 +1,11 @@
 
-<!-- <h3 align="center">Hi , I'm Yeamin <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h3> -->
 <div align="center">
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&duration=4000&color=FF58C4&center=true&width=500&lines=Hi,+this+is++Yeamin...💻;But+you+Can+Call+Me...;JavaScript+Lover...❤;Thank+you+so+much+for;Following+my+GitHub🥰)](link)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&duration=4000&color=FF58C4&center=true&width=500&lines=Hi,+this+is++Yeamin...💻;But+you+Can+Call+Me...;JavaScript+Lover...❤;Thank+you+so+much+for;Following+my+GitHub🥰)](#)
+
+
+<!-- arfjhdfukg -->
   
 
 
@@ -43,9 +45,9 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/mdyeamin05/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mdyeamin05/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mdyeamin05/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mdyeamin05/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/16836780/md-yeamin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="16836780/md-yeamin" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/mdyeamin05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/mdyeamin05" height="30" width="40" /></a>
+<a href="https://facebook.com/mdyeamin05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://facebook.com/mdyeamin05" height="30" width="40" /></a>
 <a href="https://medium.com/@coderyeamin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@coderyeamin" height="30" width="40" /></a>
 <a href="https://discord.gg/Md Yeamin#6366" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Md Yeamin#6366" height="30" width="40" /></a>
 </p>
