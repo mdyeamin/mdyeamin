@@ -137,6 +137,11 @@ I'm a Frontend web developer and Fancy web designer. I started building websites
 </p>
 
 
+<!-- 📊 &nbsp;**This week I spent my time on**
 
+![mdyeamin stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=gautamkrishnar&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
+<details>
+  <summary><b>✨&nbsp;&nbsp;About&nbsp;Me</b></summary>
+  <br/> -->
 
-
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mdyeamin)](https://github.com/anuraghazra/github-readme-stats)
