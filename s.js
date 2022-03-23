@@ -7,3 +7,6 @@ function repeatLove(lx,xx){
     return undefined;
 }
 const XR = repeatNuN(repeatLove)
+
+
+export default XR;
