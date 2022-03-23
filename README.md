@@ -139,7 +139,4 @@ I'm a Frontend web developer and Fancy web designer. I started building websites
 
 
 
-[![Watch the video](srity/Kate%20Linn%20-%20Zaynah%20feat.%20Chris%20Thrace%20_%20Official%20V(MP3_160K).mov)](https://youtu.be/vt5fpE0bzSY)
-
-<!-- https://user-images.githubusercontent.com/73517661/159781052-50df156b-9e06-4c53-aca7-da62be34abec.mov -->
 
