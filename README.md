@@ -119,6 +119,11 @@ I'm a Frontend web developer and Fancy web designer. I started building websites
   <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdyeamin&hide=TeX&layout=compact&theme=radical&hide_border=true&bg_color=1F222E" />
 </p>
 
+<!-- wakatime  -->
+
+📊 &nbsp;**This week I spent my time on**
+
+![mdyeamin stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=md&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
  <!-- chart -->
 <a href="#"><img alt="Aditya Sharma's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=mdyeamin&bg_color=1F222E&color=ffffff&line=f08c2d&point=444040&area=true&hide_border=true" /></a>
 
@@ -137,10 +142,6 @@ I'm a Frontend web developer and Fancy web designer. I started building websites
 </p>
 
 
-📊 &nbsp;**This week I spent my time on**
 
-![mdyeamin stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=mdyeamin&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
-<details>
-  <summary><b>✨&nbsp;&nbsp;About&nbsp;Me</b></summary>
-  <br/>
+
 
