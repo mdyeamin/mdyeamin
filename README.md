@@ -2,7 +2,7 @@
 <div align="center">
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&duration=4000&color=FF58C4&center=true&width=500&lines=Hi,+this+is++Yeamin...💻;But+you+Can+Call+Me...;JavaScript+Lover...❤;Thank+you+so+much+for;Following+my+GitHub🥰)](https://mdyeamin.netlify.app/)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&duration=4000&color=FF58C4&center=true&width=500&lines=Hi,+this+is++Yeamin...💻;But+you+can+call+me...;JavaScript+Lover...❤;Thank+you+so+much+for;Following+my+GitHub🥰)](https://mdyeamin.netlify.app/)
 
 
 <!-- 
