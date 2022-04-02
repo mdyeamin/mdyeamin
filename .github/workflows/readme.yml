@@ -10,7 +10,7 @@ jobs:
     name: Update wakatime stats charts
     runs-on: ubuntu-latest
     steps:
-      - uses: divykj/wakatime-charts@master
+      - uses: mdyeamin/wakatime-charts@master
         with:
           WAKATIME_API_KEY: ${{ 542e562f-c003-4d68-93d9-6b56dbbcaeca }}
           GITHUB_TOKEN: ${{ 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 }} # only required if using the action in repository other than profile
