@@ -1,18 +1,16 @@
-name: Waka Readme
+name: Wakatime Charts
 
 on:
   workflow_dispatch:
   schedule:
-    # Runs at every 12AM UTC
     - cron: "0 0 * * *"
 
 jobs:
-  update-readme:
-    name: Update this repo's README
+  update-charts:
+    name: Update wakatime stats charts
     runs-on: ubuntu-latest
     steps:
-      - uses: mdyeamin/waka-readme@master
+      - uses: mdyeamin/wakatime-charts@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-            GH_TOKEN: ${{ secrets.GH_TOKEN}}
-            REPOSITORY: <username/username> # optional, By default, it will automatically use the repository which is executing the workflow.
+          GITHUB_TOKEN: ${{ secrets.TOKEN_GITHUB }} # only required if using the action in repository other than profile
