@@ -132,7 +132,7 @@ I'm a Frontend web developer and Fancy web designer. I started building websites
 
 ![Weekly Language Stats](https://raw.githubusercontent.com/mdyeamin/wakatime-charts/master/images/wakatime_weekly_language_stats.svg "Weekly Language Stats")
 
-![Weekly Project Stats](https://raw.githubusercontent.com/divykj/wakatime-charts/master/images/wakatime_weekly_project_stats.svg "Weekly Project Stats")
+![Weekly Project Stats](https://raw.githubusercontent.com/mdyeamin/wakatime-charts/master/images/wakatime_weekly_project_stats.svg "Weekly Project Stats")
 
 
 <!-- solid -->
