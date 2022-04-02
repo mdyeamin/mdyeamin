@@ -12,5 +12,5 @@ jobs:
     steps:
       - uses: mdyeamin/wakatime-charts@master
         with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # only required if using the action in repository other than profile
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY = 542e562f-c003-4d68-93d9-6b56dbbcaeca}}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN = 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 }} # only required if using the action in repository other than profile
