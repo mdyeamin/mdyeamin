@@ -123,9 +123,30 @@ I'm a Frontend web developer and Fancy web designer. I started building websites
 
 <!-- ![md yeamin wakatime stats](https://wakatime.com/share/@mdyeamin/54d5a533-f4e7-46c1-979d-0342a1b4a0e5.svg) -->
 
-<a href="#">
+<!-- <a href="#">
 <img height="400px" width="100%" alt="This week I spent my time on" src="https://wakatime.com/share/@mdyeamin/de026aac-1367-42ce-b23e-5d840c3d2fef.svg">
- </a>
+ </a> -->
+
+
+name: Waka Readme
+
+on:
+  schedule:
+    # Runs at 12am UTC
+    - cron: "0 0 * * *"
+
+jobs:
+  update-readme:
+    name: Update Readme with Metrics
+    runs-on: ubuntu-latest
+    steps:
+      - uses: athul/waka-readme@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          REPOSITORY: <mdyeamin/mdyeamin> # optional, By default, it will automatically use the repository which is executing the workflow.
+
+
 
  <!-- chart -->
 <a href="#"><img alt="Md Yeamin's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=mdyeamin&bg_color=1F222E&color=ffffff&line=f08c2d&point=444040&area=true&hide_border=true" /></a>
