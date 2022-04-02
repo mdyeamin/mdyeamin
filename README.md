@@ -125,6 +125,24 @@ I'm a Frontend web developer and Fancy web designer. I started building websites
 <!-- ![md yeamin wakatime stats](https://wakatime.com/share/@mdyeamin/54d5a533-f4e7-46c1-979d-0342a1b4a0e5.svg) -->
 
 
+   ```yaml
+   name: Wakatime Charts
+
+   on:
+     workflow_dispatch:
+     schedule:
+       - cron: "0 0 * * *"
+
+   jobs:
+     update-charts:
+       name: Update wakatime stats charts
+       runs-on: ubuntu-latest
+       steps:
+         - uses: mdyeamin/wakatime-charts@master
+           with:
+             WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+             GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # only required if using the action in repository other than profile
+   ```
 
 <a href="#">
 <img height="400px" width="100%" alt="This week I spent my time on" src="https://wakatime.com/share/@mdyeamin/de026aac-1367-42ce-b23e-5d840c3d2fef.svg">
