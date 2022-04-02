@@ -114,8 +114,8 @@ I'm a Frontend web developer and Fancy web designer. I started building websites
 <hr>
 
   <!-- most used language  -->
- <p align="center">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdyeamin&hide=TeX&layout=compact&theme=radical&hide_border=true&bg_color=1F222E" />
+ <p align="">
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdyeamin&hide=TeX&layout=compact&theme=radical&hide_border=true&bg_color=1F222E" />
 
 <!-- wakatime  -->
 
@@ -124,7 +124,7 @@ I'm a Frontend web developer and Fancy web designer. I started building websites
 <!-- ![md yeamin wakatime stats](https://wakatime.com/share/@mdyeamin/54d5a533-f4e7-46c1-979d-0342a1b4a0e5.svg) -->
 
 <a href="#">
-<img width="50%" alt="This week I spent my time on" src="https://wakatime.com/share/@mdyeamin/54d5a533-f4e7-46c1-979d-0342a1b4a0e5.svg">
+<img width="40%" alt="This week I spent my time on" src="https://wakatime.com/share/@mdyeamin/54d5a533-f4e7-46c1-979d-0342a1b4a0e5.svg">
  </a>
 </p>
  <!-- chart -->
