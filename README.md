@@ -121,7 +121,7 @@ I'm a Frontend web developer and Fancy web designer. I started building websites
 
  &nbsp;**This week I spent my time on**
 
-![md yeamin wakatime stats](https://wakatime.com/share/@mdyeamin/6dca682c-efc2-47d5-ad15-1cb67e07d333.png)
+![md yeamin wakatime stats](https://wakatime.com/share/@mdyeamin/1798d09a-7f3c-416f-a34c-8eb864902d87.svg)
 
 
  <!-- chart -->
