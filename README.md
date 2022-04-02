@@ -116,16 +116,16 @@ I'm a Frontend web developer and Fancy web designer. I started building websites
   <!-- most used language  -->
  <p align="center">
   <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdyeamin&hide=TeX&layout=compact&theme=radical&hide_border=true&bg_color=1F222E" />
-</p>
+
 <!-- wakatime  -->
 
  &nbsp;**This week I spent my time on**
 
 ![md yeamin wakatime stats](https://wakatime.com/share/@mdyeamin/54d5a533-f4e7-46c1-979d-0342a1b4a0e5.svg)
-
-<a href="#">
+</p>
+<!-- <a href="#">
 <img alt="This week I spent my time on" src="https://wakatime.com/share/@mdyeamin/54d5a533-f4e7-46c1-979d-0342a1b4a0e5.svg">
- </a>
+ </a> -->
 
  <!-- chart -->
 <a href="#"><img alt="Md Yeamin's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=mdyeamin&bg_color=1F222E&color=ffffff&line=f08c2d&point=444040&area=true&hide_border=true" /></a>
