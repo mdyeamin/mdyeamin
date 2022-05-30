@@ -125,13 +125,7 @@ I'm a Frontend web developer and Fancy web designer. I started building websites
 
 <img  width="350px" alt="This week I spent my time on" src="https://wakatime.com/share/@mdyeamin/de026aac-1367-42ce-b23e-5d840c3d2fef.svg">
 
-<<<<<<< HEAD
 
- <a href="#">
-<img height="400px" width="100%" alt="This week I spent my time on" src="https://wakatime.com/share/@mdyeamin/de026aac-1367-42ce-b23e-5d840c3d2fef.svg">
- </a>
-
-=======
 </p>
 >>>>>>> ecaa6b81c670be28a5164d2f18dd67bd18de9876
 <!-- ![Weekly Language Stats](https://raw.githubusercontent.com/mdyeamin/wakatime-charts/master/images/wakatime_weekly_language_stats.svg "Weekly Language Stats")
