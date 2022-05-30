@@ -120,7 +120,7 @@ I'm a Frontend web developer and Fancy web designer. I started building websites
 <!-- wakatime  -->
 <!--START_SECTION:waka-->
 
- &nbsp;**This week I spent my time on**
+ <!-- &nbsp;**This week I spent my time on** -->
  <!-- ![md yeamin wakatime stats](https://wakatime.com/share/@mdyeamin/54d5a533-f4e7-46c1-979d-0342a1b4a0e5.svg)  -->
 
 <img  width="350px" alt="This week I spent my time on" src="https://wakatime.com/share/@mdyeamin/de026aac-1367-42ce-b23e-5d840c3d2fef.svg">
