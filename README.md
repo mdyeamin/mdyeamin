@@ -126,13 +126,13 @@ I'm a Frontend web developer and Fancy web designer. I started building websites
 
 
 
-<!-- <a href="#">
+ <a href="#">
 <img height="400px" width="100%" alt="This week I spent my time on" src="https://wakatime.com/share/@mdyeamin/de026aac-1367-42ce-b23e-5d840c3d2fef.svg">
  </a>
 
 ![Weekly Language Stats](https://raw.githubusercontent.com/mdyeamin/wakatime-charts/master/images/wakatime_weekly_language_stats.svg "Weekly Language Stats")
 
-![Weekly Project Stats](https://raw.githubusercontent.com/mdyeamin/wakatime-charts/master/images/wakatime_weekly_project_stats.svg "Weekly Project Stats") -->
+![Weekly Project Stats](https://raw.githubusercontent.com/mdyeamin/wakatime-charts/master/images/wakatime_weekly_project_stats.svg "Weekly Project Stats") 
 
 
 <!-- solid -->
