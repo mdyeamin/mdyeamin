@@ -115,21 +115,17 @@ I'm a Frontend web developer and Fancy web designer. I started building websites
 
   <!-- most used language  -->
  <p align="center">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdyeamin&hide=TeX&layout=compact&theme=radical&hide_border=true&bg_color=1F222E" />
-</p>
+  <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdyeamin&hide=TeX&layout=compact&theme=radical&hide_border=true&bg_color=1F222E" />
+
 <!-- wakatime  -->
 <!--START_SECTION:waka-->
 
  &nbsp;**This week I spent my time on**
-
  <!-- ![md yeamin wakatime stats](https://wakatime.com/share/@mdyeamin/54d5a533-f4e7-46c1-979d-0342a1b4a0e5.svg)  -->
-
-
-
  <a href="#">
-<img  width="60%" alt="This week I spent my time on" src="https://wakatime.com/share/@mdyeamin/de026aac-1367-42ce-b23e-5d840c3d2fef.svg">
+<img  width="400px" alt="This week I spent my time on" src="https://wakatime.com/share/@mdyeamin/de026aac-1367-42ce-b23e-5d840c3d2fef.svg">
  </a> 
-
+</p>
 <!-- ![Weekly Language Stats](https://raw.githubusercontent.com/mdyeamin/wakatime-charts/master/images/wakatime_weekly_language_stats.svg "Weekly Language Stats")
 
 ![Weekly Project Stats](https://raw.githubusercontent.com/mdyeamin/wakatime-charts/master/images/wakatime_weekly_project_stats.svg "Weekly Project Stats")  -->
