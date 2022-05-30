@@ -108,7 +108,7 @@ I'm a Frontend web developer and Fancy web designer. I started building websites
 
 
   <div align="center">
-<img height="40" src="img/152370900-69dce999-2e00-4227-9547-917fa1a4b06e.png" />
+<img height="100" src="img/152370900-69dce999-2e00-4227-9547-917fa1a4b06e.png" />
   </div>
 
 <hr>
