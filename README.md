@@ -15,13 +15,13 @@
 
 
 <p align="left">
-  <img alt="" style="{max-height: 0px}" src="srity/header.jpg">
+  <img alt="" style="{max-height: 0px}" src="img/header.jpg">
 </p>
 <div align="center">
 <!--- portfolio launch image --->
 <a href="https://mdyeamin.netlify.app/">
-  <img height="300" src="srity/coder_husbend.png"/>
-  <img height="300" src="srity/coder_wife.png"/>
+  <img height="300" src="img/coder_husbend.png"/>
+  <img height="300" src="img/coder_wife.png"/>
 </div>
   
   
@@ -63,7 +63,7 @@
   ABOUT ME
 </h1>
   
-<img width="105" height="105" src="srity/boy.png" />
+<img width="105" height="105" src="img/boy.png" />
 
 <h3>'A infinity study moment :  🎊💓'</h3>
 
@@ -108,7 +108,7 @@ I'm a Frontend web developer and Fancy web designer. I started building websites
 
 
   <div align="center">
-<img height="40" src="srity/152370900-69dce999-2e00-4227-9547-917fa1a4b06e.png" />
+<img height="40" src="img/152370900-69dce999-2e00-4227-9547-917fa1a4b06e.png" />
   </div>
 
 <hr>
@@ -150,7 +150,7 @@ I'm a Frontend web developer and Fancy web designer. I started building websites
 
 
 <!--- building footer with spaceship question --->
-![footer](srity/hey.gif)
+![footer](img/hey.gif)
 
 <p align="center">
 <img height="50" src="https://user-images.githubusercontent.com/60597290/152519754-992acfbc-39df-489d-a01a-72ea86a08996.png" />
