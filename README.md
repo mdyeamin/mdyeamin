@@ -108,7 +108,7 @@ I'm a Frontend web developer and Fancy web designer. I started building websites
 
 
   <div align="center">
-<img height="100" src="img/152370900-69dce999-2e00-4227-9547-917fa1a4b06e.png" />
+<img height="400" src="img/152370900-69dce999-2e00-4227-9547-917fa1a4b06e.png" />
   </div>
 
 <hr>
@@ -127,7 +127,7 @@ I'm a Frontend web developer and Fancy web designer. I started building websites
 
 <div width="50">
  <a href="#">
-<img  width="50%" alt="This week I spent my time on" src="https://wakatime.com/share/@mdyeamin/de026aac-1367-42ce-b23e-5d840c3d2fef.svg">
+<img  width="100%" alt="This week I spent my time on" src="https://wakatime.com/share/@mdyeamin/de026aac-1367-42ce-b23e-5d840c3d2fef.svg">
  </a> </div>
 
 <!-- ![Weekly Language Stats](https://raw.githubusercontent.com/mdyeamin/wakatime-charts/master/images/wakatime_weekly_language_stats.svg "Weekly Language Stats")
