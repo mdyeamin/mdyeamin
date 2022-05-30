@@ -127,7 +127,7 @@ I'm a Frontend web developer and Fancy web designer. I started building websites
 
 
 </p>
->>>>>>> ecaa6b81c670be28a5164d2f18dd67bd18de9876
+
 <!-- ![Weekly Language Stats](https://raw.githubusercontent.com/mdyeamin/wakatime-charts/master/images/wakatime_weekly_language_stats.svg "Weekly Language Stats")
 
 ![Weekly Project Stats](https://raw.githubusercontent.com/mdyeamin/wakatime-charts/master/images/wakatime_weekly_project_stats.svg "Weekly Project Stats")  -->
