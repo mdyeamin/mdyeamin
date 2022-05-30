@@ -141,8 +141,8 @@ I'm a Frontend web developer and Fancy web designer. I started building websites
 <a href="#"><img alt="Md Yeamin's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=mdyeamin&bg_color=1F222E&color=ffffff&line=f08c2d&point=444040&area=true&hide_border=true" /></a>
 
 <p align="center">
-  <img width="400px" src="https://github-readme-stats.vercel.app/api?username=mdyeamin&count_private=true&show_icons=true&theme=material-palenight&hide_border=true&bg_color=1F222E" />
-  <img width="400px" src="https://github-readme-streak-stats.herokuapp.com?user=mdyeamin&theme=material-palenight&hide_border=true&fire=C77800&ring=7C2AE8&background=1F222E" />
+  <img width="420px" src="https://github-readme-stats.vercel.app/api?username=mdyeamin&count_private=true&show_icons=true&theme=material-palenight&hide_border=true&bg_color=1F222E" />
+  <img width="420px" src="https://github-readme-streak-stats.herokuapp.com?user=mdyeamin&theme=material-palenight&hide_border=true&fire=C77800&ring=7C2AE8&background=1F222E" />
 </p>
 <div align="center"> <img src="https://raw.githubusercontent.com/muhiqsimui/muhiqsimui/output/github-contribution-grid-snake.svg" /></div>
 
