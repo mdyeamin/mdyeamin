@@ -115,7 +115,7 @@ I'm a Frontend web developer and Fancy web designer. I started building websites
 
   <!-- most used language  -->
  <p align="center">
-  <img width="430px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdyeamin&hide=TeX&layout=compact&theme=radical&hide_border=true&bg_color=1F222E" />
+  <img width="420px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdyeamin&hide=TeX&layout=compact&theme=radical&hide_border=true&bg_color=1F222E" />
 
 <!-- wakatime  -->
 <!--START_SECTION:waka-->
