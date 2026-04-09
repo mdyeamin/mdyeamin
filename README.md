@@ -1,11 +1,12 @@
 <div align="center">
 <p align="right">
-  <img src="https://komarev.com/ghpvc/?username=mdyeamin&label=Profile+Views&color=ff69b4&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=mdyeamin&label=Visitors&color=blueviolet&style=for-the-badge" />
 </p>
 
   <a href="">
     <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=4000&pause=500&color=FF58C4&center=true&vCenter=true&width=600&lines=Hi,+this+is+Yeamin...;But,+you+can+call+me...+;JavaScript+Lover...❤;Thanks+you+for;visiting+my+GitHub" alt="Typing SVG" />
   </a>
+  
 
   <h2 align="center">
     <a href="">
@@ -110,10 +111,10 @@ _A collection of my recent web development projects and experiments._
 ---
 
 
-<!-- ![Stats](https://github-readme-stats.vercel.app/api?username=mdyeamin&show_icons=true&theme=tokyonight&cache_seconds=1800)
+![Stats](https://github-readme-stats.vercel.app/api?username=mdyeamin&show_icons=true&theme=tokyonight&cache_seconds=1800)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdyeamin&layout=compact&theme=tokyonight&cache_seconds=1800) -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdyeamin&layout=compact&theme=tokyonight&cache_seconds=1800)
 
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mdyeamin&theme=tokyo-night)
