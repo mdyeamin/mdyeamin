@@ -241,9 +241,9 @@ Python                   1 repo              ░░░░░░░░░░░�
 
 
 
-**Timeline**
+<!-- **Timeline**
 
-![Lines of Code chart](https://raw.githubusercontent.com/mdyeamin/mdyeamin/main/assets/bar_graph.png)
+![Lines of Code chart](https://raw.githubusercontent.com/mdyeamin/mdyeamin/main/assets/bar_graph.png) -->
 
 
  Last Updated on 09/04/2026 19:50:17 UTC
