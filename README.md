@@ -111,10 +111,10 @@ _A collection of my recent web development projects and experiments._
 ---
 
 
-![Stats](https://github-readme-stats.vercel.app/api?username=mdyeamin&show_icons=true&theme=tokyonight&cache_seconds=1800)
+<!-- ![Stats](https://github-readme-stats.vercel.app/api?username=mdyeamin&show_icons=true&theme=tokyonight&cache_seconds=1800)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdyeamin&layout=compact&theme=tokyonight&cache_seconds=1800)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdyeamin&layout=compact&theme=tokyonight&cache_seconds=1800) -->
 
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mdyeamin&theme=tokyo-night)
@@ -126,21 +126,14 @@ _A collection of my recent web development projects and experiments._
       <td><img width="410px" src="https://github-readme-stats.vercel.app/api?username=mdyeamin&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1F222E" /></td>
       <td><img width="410px" src="https://github-readme-streak-stats.herokuapp.com?user=mdyeamin&theme=tokyonight&hide_border=true&background=1F222E" /></td>
     </tr>
-    <tr>
-      <td colspan="2" align="center">
-        <img width="830px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdyeamin&layout=compact&theme=tokyonight&hide_border=true&bg_color=1F222E" />
-      </td>
-    </tr>
+    
   </table>
 
   <br/>
-  
-  <img width="100%" src="https://activity-graph.herokuapp.com/graph?username=mdyeamin&bg_color=1F222E&color=ffffff&line=f08c2d&point=444040&area=true&hide_border=true" />
+ 
 </div>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/muhiqsimui/muhiqsimui/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
-</div>
+
 
 ---
 
@@ -154,8 +147,15 @@ _A collection of my recent web development projects and experiments._
   <a href="mailto:coderyeamin@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
+
 <div align="center">
-  <img height="40" src="img/hey.gif" />
+  <img src="img/snack.svg" alt="Snake Animation" />
+</div>
+
+<div align="center">
+  <img height="100" src="img/hey.gif" />
   <br/>
   <img src="https://user-images.githubusercontent.com/60597290/152519754-992acfbc-39df-489d-a01a-72ea86a08996.png" height="50" />
 </div>
+
+
