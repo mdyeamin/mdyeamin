@@ -171,7 +171,7 @@ _A collection of my recent web development projects and experiments._
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-17-blue?style=flat)
 
-**🐱 My GitHub Data** 
+<!-- **🐱 My GitHub Data** 
 
 > 📦 590.7 kB Used in GitHub's Storage 
  > 
@@ -182,7 +182,7 @@ _A collection of my recent web development projects and experiments._
 > 📜 84 Public Repositories 
  > 
 > 🔑 0 Private Repositories 
- > 
+ >  -->
 **I'm an Early 🐤** 
 
 ```text
