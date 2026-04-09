@@ -1,0 +1,20 @@
+name: WakaTime README integration
+
+on:
+  schedule:
+    # প্রতিদিন রাত ১২টায় (UTC) রান হবে। আপনি চাইলে সময় পরিবর্তন করতে পারেন।
+    - cron: '0 0 * * *'
+  workflow_dispatch: # ম্যানুয়ালি রান করার অপশন।
+
+jobs:
+  update-readme:
+    name: Update README with WakaTime stats
+    runs-on: ubuntu-latest
+    steps:
+      - uses: athlon1600/wakatime-readme@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          SHOW_OS: "true" # Operating System শো করার জন্য এটি অপরিহার্য।
+          # আপনি চাইলে আরও কিছু কাস্টমাইজ করতে পারেন, যেমন:
+          # SHOW_EDITORS: "true" # এডিটর শো করার জন্য।
+          # SHOW_LANGUAGE_PER_REPO: "true" # প্রতিটি রেপোজিটরির ভাষা শো করার জন্য।
