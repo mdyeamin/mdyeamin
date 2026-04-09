@@ -93,6 +93,24 @@ _Building robust applications with a modern and scalable stack._
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /></a>
 
 </div>
+
+
+---
+
+### 🌐 Connect with Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/mdyeamin05/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://stackoverflow.com/users/16836780/md-yeamin"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" /></a>
+  <a href="https://facebook.com/mdyeamin05"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+  <a href="https://medium.com/@coderyeamin"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
+  <a href="mailto:coderyeamin@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+
+
+
+
 <div align="center" style="margin-top:50px">
 
 # 💻 Featured Creations
@@ -123,29 +141,18 @@ _A collection of my recent web development projects and experiments._
 <div align="center">
   <table border="0">
     <tr>
-      <td><img width="410px" src="https://github-readme-stats.vercel.app/api?username=mdyeamin&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1F222E" /></td>
       <td><img width="410px" src="https://github-readme-streak-stats.herokuapp.com?user=mdyeamin&theme=tokyonight&hide_border=true&background=1F222E" /></td>
     </tr>
     
   </table>
+ 
 
-  <br/>
+<p align="left">
+  <img src="https://link-to-your-language-graph.svg" alt="Wakatime Weekly Language Stats" />
+</p>
  
 </div>
 
-
-
----
-
-### 🌐 Connect with Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/mdyeamin05/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://stackoverflow.com/users/16836780/md-yeamin"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" /></a>
-  <a href="https://facebook.com/mdyeamin05"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
-  <a href="https://medium.com/@coderyeamin"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
-  <a href="mailto:coderyeamin@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
 
 
 <div align="center">
