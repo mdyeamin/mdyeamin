@@ -4,7 +4,7 @@
   </p>
 
   <a href="">
-    <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=4000&pause=500&color=FF58C4&center=true&vCenter=true&width=600&lines=Hi,+this+is+Yeamin...;But,+you+can+call+me...+;JavaScript+Lover...❤;Thank+so you+for;visiting+my+GitHub" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=4000&pause=500&color=FF58C4&center=true&vCenter=true&width=600&lines=Hi,+this+is+Yeamin...;But,+you+can+call+me...+;JavaScript+Lover...❤;Thanks+you+for;visiting+my+GitHub" alt="Typing SVG" />
   </a>
 
   <h2 align="center">
