@@ -1,160 +1,160 @@
-
 <div align="center">
-  <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdyeamin&label=Profile%20views&color=0e75b6&style=flat" alt="mdyeamin" /> </p>
+  <p align="right"> 
+    <img src="https://komarev.com/ghpvc/?username=mdyeamin&label=Profile%20views&color=0e75b6&style=flat-square" alt="mdyeamin" /> 
+  </p>
 
-<div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&duration=4000&color=FF58C4&center=true&width=500&lines=Hi,+this+is++Yeamin...💻;But,+you+can+call+me...;JavaScript+Lover...❤;Thank+you+so+much+for...;Following+my+GitHub🥰)](https://mdyeamin.netlify.app/)
+  <a href="">
+    <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=4000&pause=500&color=FF58C4&center=true&vCenter=true&width=600&lines=Hi,+this+is+Yeamin...;But,+you+can+call+me...+;JavaScript+Lover...❤;Thank+so you+for;visiting+my+GitHub" alt="Typing SVG" />
+  </a>
 
+  <h2 align="center">
+    <a href="">
+      <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&pause=500&lines=MERN+Stack+Developer;API+Developer;Frontend+Specialist;UI/UX+Enthusiast;Always+Learning+New+Things&center=true&width=500&height=50&color=00D1FF">
+    </a>
+  </h2>
 
-
-
-
-<h2 align="center">
-  <a href="https://github.com/mdyeamin"><img src="https://readme-typing-svg.herokuapp.com?lines=MERN+Stack+developer+;API+developer;Frontend+developer;user+interface+(UI);user+experience+(UX);Competitive+Programmer;DS%20|%20Algorithms%20|%20OOP%20;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
-</h2>
 </div>
 
+<div align="center" style="margin-top:10px">
+  <table border="0" width="500">
+    <tr>
+      <td align="center">
+        <img width="140" src="img/boy.png" alt="Profile Icon" style="border-radius: 50%;" />
+        <br />
+        <h2 align="center">📖 About Me</h2>
+        <p align="center">
+          Building the web of tomorrow with precision and creativity. I am a <b>Frontend Architect</b> passionate about crafting high-performance, user-centric experiences. Since 2020, I have been turning complex problems into elegant, scalable solutions.
+        </p>
+        <hr width="50%" />
+      </td>
+    </tr>
+  </table>
 
-<p align="left">
-  <img alt="" style="{max-height: 0px}" src="img/header.jpg">
-</p>
-<div align="center">
-<!--- portfolio launch image --->
-<a href="https://mdyeamin.netlify.app/">
-  <img height="300" src="img/coder_husbend.png"/>
-  <img height="300" src="img/coder_wife.png"/>
+ 
 </div>
-  
-  
-  
 
-<br>
+<div align="center" style="margin-top:50px">
 
-<!-- - 🌱 I’m currently learning **TS, react native, redux**
+# ⚔️ The Arsenal: My Core Technologies
 
-- 👨‍💻 All of my projects are available at [https://mdyeamin.netlify.app/](https://mdyeamin.netlify.app/)
+_Building robust applications with a modern and scalable stack._
 
-- 📝 I regularly write articles on [https://stackoverflow.com/users/16836780/md-yeamin?tab=articles](https://stackoverflow.com/users/16836780/md-yeamin?tab=articles)
+<br />
 
-- 💬 Ask me about **react,TS,JS**
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /></a>
+<a href="https://reactjs.org/" target="_blank">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /></a>
+<a href="https://www.typescriptlang.org/" target="_blank">
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" /></a>
+<a href="https://nextjs.org/" target="_blank">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" /></a>
+<a href="https://redux.js.org/" target="_blank">
+  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" /></a>
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1VY0HU-u08JcHzFz_YsekAbUs4G3fW4Pc/view?usp=sharing](https://drive.google.com/file/d/1VY0HU-u08JcHzFz_YsekAbUs4G3fW4Pc/view?usp=sharing) -->
+<br />
 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://www.linkedin.com/in/mdyeamin05/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mdyeamin05/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/16836780/md-yeamin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="16836780/md-yeamin" height="30" width="40" /></a>
-<a href="https://facebook.com/mdyeamin05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://facebook.com/mdyeamin05" height="30" width="40" /></a>
-<a href="https://medium.com/@coderyeamin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@coderyeamin" height="30" width="40" /></a>
-<a href="https://discord.gg/Md Yeamin#6366" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Md Yeamin#6366" height="30" width="40" /></a>
-</p>
+<a href="https://tailwindcss.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" /></a>
+<a href="https://daisyui.com/" target="_blank">
+  <img src="https://img.shields.io/badge/DaisyUI-5AD7E4?style=for-the-badge&logo=daisyui&logoColor=white" /></a>
+<a href="https://getbootstrap.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" /></a>
+<a href="https://mui.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" /></a>
+<a href="https://vitejs.dev/" target="_blank">
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" /></a>
+
+<br />
+
+<a href="https://nodejs.org/" target="_blank">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" /></a>
+<a href="https://expressjs.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" /></a>
+<a href="https://www.mongodb.com/" target="_blank">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" /></a>
+<a href="https://firebase.google.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" /></a>
+<a href="https://axios-http.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white" /></a>
+
+<br />
+
+<a href="https://git-scm.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /></a>
+<a href="https://www.figma.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" /></a>
+<a href="https://www.npmjs.com/" target="_blank">
+  <img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" /></a>
+<a href="https://code.visualstudio.com/" target="_blank">
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" /></a>
+<a href="https://www.linux.org/" target="_blank">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /></a>
+
+</div>
+<div align="center" style="margin-top:50px">
+
+# 💻 Featured Creations
+
+_A collection of my recent web development projects and experiments._
+
+| Project Name         | Tech Stack                                              |                         Live Demo                          |                                                                             Source Code                                                                             |
+| :------------------- | :------------------------------------------------------ | :--------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| **Digital-Workflow** | `React` `Tailwind` `DaisyUI`<br>`Framer Motion` `Axios` | [🌐 Visit Site](https://digital-workflow-plum.vercel.app/) |                                                     [📁 Frontend](https://github.com/mdyeamin/Digital-Workflow)                                                     |
+| **Travel Curios**    | `MERN Stack` `Firebase`<br>`Node.js` `MongoDB`          |     [🌐 Visit Site](https://travel-curiosity.web.app/)     | [📁 Client](https://github.com/mdyeamin/tourism-or-delivery-website-client-side) / [⚙️ Server](https://github.com/mdyeamin/tourism-or-delivery-website-server-side) |
+| **Health Sense**     | `React` `Firebase Auth`<br>`Bootstrap`                  |    [🌐 Visit Site](https://health-sense-d3b2a.web.app/)    |                                                [📁 Frontend](https://github.com/mdyeamin/-healthcare-react-firebase)                                                |
+| **Code Education**   | `React` `Context API`<br>`Netlify`                      |   [🌐 Visit Site](https://procodeeducation.netlify.app/)   |                                                   [📁 Frontend](https://github.com/mdyeamin/review-website-react)                                                   |
+
+</div>
+
+---
 
 
-<h3 align="center">Languages and Tools:</h3>
-</br>
-<p align="center"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<!-- ![Stats](https://github-readme-stats.vercel.app/api?username=mdyeamin&show_icons=true&theme=tokyonight&cache_seconds=1800)
 
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdyeamin&layout=compact&theme=tokyonight&cache_seconds=1800) -->
 
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mdyeamin&theme=tokyo-night)
 
 
 <div align="center">
-&nbsp;
-<h1 align="center">
-  ABOUT ME
-</h1>
+  <table border="0">
+    <tr>
+      <td><img width="410px" src="https://github-readme-stats.vercel.app/api?username=mdyeamin&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1F222E" /></td>
+      <td><img width="410px" src="https://github-readme-streak-stats.herokuapp.com?user=mdyeamin&theme=tokyonight&hide_border=true&background=1F222E" /></td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <img width="830px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdyeamin&layout=compact&theme=tokyonight&hide_border=true&bg_color=1F222E" />
+      </td>
+    </tr>
+  </table>
+
+  <br/>
   
-<img width="105" height="105" src="img/boy.png" />
-
-<h3>'A infinity study moment :  🎊💓'</h3>
-
-<h5>  
-I am a Frontend web Developer with the skill HTML, CSS, bootstrap, Material UI, Javascript, React.js, etc.
-And I'm trying to learn backend MongoDB, express.js, node.js
-I did some work in the backend,
-I hope to become a full-stack developer very soon
-</h5>
-I'm a Frontend web developer and Fancy web designer. I started building websites in 2020. I know how to make an appealing website. Though I am a junior Developer and designer but I am very Confident about my work .
-  
-
+  <img width="100%" src="https://activity-graph.herokuapp.com/graph?username=mdyeamin&bg_color=1F222E&color=ffffff&line=f08c2d&point=444040&area=true&hide_border=true" />
 </div>
- <!--- Portfolio/Website --->  
-  
-<h1 align="center">
-    Portfolio/Website
-    </h2>
-   
-  `Personal Website` -> <a href="https://mdyeamin.netlify.app/" target="_blank">`Md Yeamin`</a>
-  
-  <h3 align="center">
-    my creation another website 
-    </h2>
-   
-  `West More Land's` -> <a href="https://west-more-land-s.web.app/" target="_blank">`website`</a>|
-  `frontend` -> <a href="https://github.com/mdyeamin/-niche-website-client-side" target="_blank">`Github code`</a>|
-  `backend` -> <a href="https://github.com/mdyeamin/-niche-website-server-side" target="_blank">`Github code`</a>
-   </br>
 
-  `Travel curios` -> <a href="https://travel-curiosity.web.app/" target="_blank">`website`</a>|
-  `frontend` -> <a href="https://github.com/mdyeamin/tourism-or-delivery-website-client-side" target="_blank">`Github code`</a>|
-  `backend` -> <a href="https://github.com/mdyeamin/tourism-or-delivery-website-server-side" target="_blank">`Github code`</a>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/muhiqsimui/muhiqsimui/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+</div>
 
-  `Health Sense` -> <a href="https://health-sense-d3b2a.web.app/" target="_blank">`website`</a>|
-  `frontend` -> <a href="https://github.com/mdyeamin/-healthcare-react-firebase" target="_blank">`Github code`</a>|
-  <!-- `backend` -> <a href="https://github.com/mdyeamin/-niche-website-server-side" target="_blank">`Github code`</a> -->
+---
 
-  `Code Education` -> <a href="https://procodeeducation.netlify.app/" target="_blank">`website`</a>|
-  `frontend` -> <a href="https://github.com/mdyeamin/review-website-react" target="_blank">`Github code`</a>|
-  
-
-
-  <div align="center">
-<img height="40" src="img/152370900-69dce999-2e00-4227-9547-917fa1a4b06e.png" />
-  </div>
-
-<hr>
-
-  <!-- most used language  -->
- &nbsp;**This week I spent my time on**
- <p align="center">
-  <img width="420px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdyeamin&hide=TeX&layout=compact&theme=radical&hide_border=true&bg_color=1F222E" />
-
-<!-- wakatime  -->
-<!--START_SECTION:waka-->
-
- <!-- ![md yeamin wakatime stats](https://wakatime.com/share/@mdyeamin/54d5a533-f4e7-46c1-979d-0342a1b4a0e5.svg)  -->
-
-<img  width="420px" alt="This week I spent my time on" src="https://wakatime.com/share/@mdyeamin/de026aac-1367-42ce-b23e-5d840c3d2fef.svg">
-
-
-</p>
-
-<!-- ![Weekly Language Stats](https://raw.githubusercontent.com/mdyeamin/wakatime-charts/master/images/wakatime_weekly_language_stats.svg "Weekly Language Stats")
-
-![Weekly Project Stats](https://raw.githubusercontent.com/mdyeamin/wakatime-charts/master/images/wakatime_weekly_project_stats.svg "Weekly Project Stats")  -->
-
-
-<!-- solid -->
-<!-- ![Weekly Language Stats](https://raw.githubusercontent.com/divykj/wakatime-charts/master/images/wakatime_weekly_language_stats.svg "Weekly Language Stats")
-![Weekly Project Stats](https://raw.githubusercontent.com/divykj/wakatime-charts/master/images/wakatime_weekly_project_stats.svg "Weekly Project Stats") -->
-<!--END_SECTION:waka-->
- <!-- chart -->
-<a href="#"><img alt="Md Yeamin's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=mdyeamin&bg_color=1F222E&color=ffffff&line=f08c2d&point=444040&area=true&hide_border=true" /></a>
+### 🌐 Connect with Me
 
 <p align="center">
-  <img width="420px" src="https://github-readme-stats.vercel.app/api?username=mdyeamin&count_private=true&show_icons=true&theme=material-palenight&hide_border=true&bg_color=1F222E" />
-  <img width="420px" src="https://github-readme-streak-stats.herokuapp.com?user=mdyeamin&theme=material-palenight&hide_border=true&fire=C77800&ring=7C2AE8&background=1F222E" />
-</p>
-<div align="center"> <img src="https://raw.githubusercontent.com/muhiqsimui/muhiqsimui/output/github-contribution-grid-snake.svg" /></div>
-
-
-<!--- building footer with spaceship question --->
-![footer](img/hey.gif)
-
-<p align="center">
-<img height="50" src="https://user-images.githubusercontent.com/60597290/152519754-992acfbc-39df-489d-a01a-72ea86a08996.png" />
+  <a href="https://www.linkedin.com/in/mdyeamin05/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://stackoverflow.com/users/16836780/md-yeamin"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" /></a>
+  <a href="https://facebook.com/mdyeamin05"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+  <a href="https://medium.com/@coderyeamin"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
+  <a href="mailto:coderyeamin@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
-
-
+<div align="center">
+  <img height="40" src="img/hey.gif" />
+  <br/>
+  <img src="https://user-images.githubusercontent.com/60597290/152519754-992acfbc-39df-489d-a01a-72ea86a08996.png" height="50" />
+</div>
