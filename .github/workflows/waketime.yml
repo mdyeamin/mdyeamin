@@ -6,6 +6,9 @@ on:
     - cron: '0 0 * * *'
   workflow_dispatch: # ম্যানুয়ালি রান করার অপশন।
 
+permissions:
+  contents: write # আপনার README ফাইল Commit করার জন্য এই পারমিশন অপরিহার্য।
+
 jobs:
   update-readme:
     name: Update README with WakaTime stats
@@ -15,6 +18,3 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           SHOW_OS: "true" # Operating System শো করার জন্য এটি অপরিহার্য।
-          # আপনি চাইলে আরও কিছু কাস্টমাইজ করতে পারেন, যেমন:
-          # SHOW_EDITORS: "true" # এডিটর শো করার জন্য।
-          # SHOW_LANGUAGE_PER_REPO: "true" # প্রতিটি রেপোজিটরির ভাষা শো করার জন্য।
