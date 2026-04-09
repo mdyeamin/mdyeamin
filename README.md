@@ -169,7 +169,7 @@ _A collection of my recent web development projects and experiments._
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-660%20hrs%2027%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-17-blue?style=flat)
+<!-- ![Profile Views](http://img.shields.io/badge/Profile%20Views-17-blue?style=flat) -->
 
 <!-- **🐱 My GitHub Data** 
 
