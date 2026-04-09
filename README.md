@@ -1,7 +1,7 @@
 <div align="center">
-  <p align="right"> 
-    <img src="https://komarev.com/ghpvc/?username=mdyeamin&label=Profile%20views&color=0e75b6&style=flat-square" alt="mdyeamin" /> 
-  </p>
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=mdyeamin&label=Profile+Views&color=ff69b4&style=flat" />
+</p>
 
   <a href="">
     <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=4000&pause=500&color=FF58C4&center=true&vCenter=true&width=600&lines=Hi,+this+is+Yeamin...;But,+you+can+call+me...+;JavaScript+Lover...❤;Thanks+you+for;visiting+my+GitHub" alt="Typing SVG" />
