@@ -167,4 +167,84 @@ _A collection of my recent web development projects and experiments._
 
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-660%20hrs%2027%20mins-blue?style=flat)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-17-blue?style=flat)
+
+**🐱 My GitHub Data** 
+
+> 📦 590.7 kB Used in GitHub's Storage 
+ > 
+> 🏆 174 Contributions in the Year 2026
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 84 Public Repositories 
+ > 
+> 🔑 0 Private Repositories 
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                160 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.75 % 
+🌆 Daytime                689 commits         ████████████░░░░░░░░░░░░░   46.30 % 
+🌃 Evening                475 commits         ████████░░░░░░░░░░░░░░░░░   31.92 % 
+🌙 Night                  164 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.02 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   280 commits         █████░░░░░░░░░░░░░░░░░░░░   18.82 % 
+Tuesday                  310 commits         █████░░░░░░░░░░░░░░░░░░░░   20.83 % 
+Wednesday                164 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.02 % 
+Thursday                 183 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.30 % 
+Friday                   126 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.47 % 
+Saturday                 185 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.43 % 
+Sunday                   240 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.13 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Dhaka
+
+💬 Programming Languages: 
+JavaScript               10 hrs 29 mins      █████████████████████░░░░   85.21 % 
+Markdown                 1 hr 11 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.74 % 
+JSON                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.15 % 
+Git Config               10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.43 % 
+CSS                      7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.08 % 
+
+🔥 Editors: 
+VS Code                  12 hrs 19 mins      █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+Book-vibe                4 hrs 45 mins       ██████████░░░░░░░░░░░░░░░   38.67 % 
+explore-react-router     3 hrs 58 mins       ████████░░░░░░░░░░░░░░░░░   32.22 % 
+explore-react-form       2 hrs 22 mins       █████░░░░░░░░░░░░░░░░░░░░   19.33 % 
+mdyeamin-off             1 hr 12 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.78 % 
+
+💻 Operating System: 
+Linux                    12 hrs 19 mins      █████████████████████████   100.00 % 
+```
+
+**I Mostly Code in HTML** 
+
+```text
+HTML                     42 repos            ████████████░░░░░░░░░░░░░   47.73 % 
+JavaScript               36 repos            ██████████░░░░░░░░░░░░░░░   40.91 % 
+CSS                      4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
+TypeScript               4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
+Python                   1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.14 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/mdyeamin/mdyeamin/main/assets/bar_graph.png)
+
+
+ Last Updated on 09/04/2026 19:50:17 UTC
 <!--END_SECTION:waka-->
