@@ -166,5 +166,5 @@ _A collection of my recent web development projects and experiments._
 </div>
 
 
-START_SECTION:waka
-END_SECTION:waka
+<!-- START_SECTION:waka -->
+<!-- END_SECTION:waka -->
