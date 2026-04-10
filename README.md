@@ -169,13 +169,13 @@ _A collection of my recent web development projects and experiments._
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-660%20hrs%2055%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-17-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.02%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 590.8 kB Used in GitHub's Storage 
  > 
-> 🏆 174 Contributions in the Year 2026
+> 🏆 181 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -241,10 +241,6 @@ Python                   1 repo              ░░░░░░░░░░░�
 
 
 
-**Timeline**
 
-![Lines of Code chart](https://raw.githubusercontent.com/mdyeamin/mdyeamin/main/assets/bar_graph.png)
-
-
- Last Updated on 09/04/2026 20:18:21 UTC
+ Last Updated on 10/04/2026 03:31:59 UTC
 <!--END_SECTION:waka-->
