@@ -29,4 +29,4 @@ jobs:
           SHOW_EDITORS: "true"
           SHOW_TIMEZONE: "true"
           SHOW_SHORT_INFO: "true"
-          SHOW_LOC_CHART: "false"
+          SHOW_LOC_CHART: "true"
