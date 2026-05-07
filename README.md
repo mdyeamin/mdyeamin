@@ -10,21 +10,20 @@
 
   <h2 align="center">
     <a href="">
-      <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&pause=500&lines=MERN+Stack+Developer;API+Developer;Frontend+Specialist;UI/UX+Enthusiast;Always+Learning+New+Things&center=true&width=500&height=50&color=00D1FF">
+      <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&pause=500&lines=MERN+FullStack+Developer...;Next.js+|+Node+|+MongoDB+|+Express+;Always+Learning+New+Things&center=true&width=500&height=50&color=00D1FF">
     </a>
   </h2>
 
 </div>
 
 <div align="center" style="margin-top:10px">
-  <table border="0" width="500">
+  <table border="0" width="600">
     <tr>
       <td align="center">
-        <img width="140" src="img/boy.png" alt="Profile Icon" style="border-radius: 50%;" />
         <br />
-        <h2 align="center">📖 About Me</h2>
+        <h1 align="center">📖 About Me</h1>
         <p align="center">
-          Building the web of tomorrow with precision and creativity. I am a <b>Frontend Architect</b> passionate about crafting high-performance, user-centric experiences. Since 2020, I have been turning complex problems into elegant, scalable solutions.
+          Building modern web experiences with a focus on performance, scalability, and clean design. I am a <b>Full Stack Developer</b> skilled in React, Next.js, Tailwind CSS, Node.js, Express, MongoDB, and Better Auth. Since 2026, I have been crafting fast, user-focused applications that blend seamless functionality with modern UI design. Passionate about turning ideas into scalable digital products and continuously growing toward becoming a Software Engineer.
         </p>
         <hr width="50%" />
       </td>
@@ -50,8 +49,8 @@ _Building robust applications with a modern and scalable stack._
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" /></a>
 <a href="https://nextjs.org/" target="_blank">
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" /></a>
-<a href="https://redux.js.org/" target="_blank">
-  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" /></a>
+<!-- <a href="https://redux.js.org/" target="_blank">
+  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" /></a> -->
 
 <br />
 
@@ -74,8 +73,9 @@ _Building robust applications with a modern and scalable stack._
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" /></a>
 <a href="https://www.mongodb.com/" target="_blank">
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" /></a>
-<a href="https://firebase.google.com/" target="_blank">
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" /></a>
+<a href="https://www.better-auth.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Better%20Auth-000000?style=for-the-badge&logo=shield&logoColor=white" />
+</a>
 <a href="https://axios-http.com/" target="_blank">
   <img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white" /></a>
 
@@ -147,17 +147,13 @@ _A collection of my recent web development projects and experiments._
   </table>
  
 
-<p align="left">
-  <img src="https://link-to-your-language-graph.svg" alt="Wakatime Weekly Language Stats" />
-</p>
+
  
 </div>
 
 
 
-<div align="center">
-  <img src="img/snack.svg" alt="Snake Animation" />
-</div>
+
 
 <div align="center">
   <img height="100" src="img/hey.gif" />
@@ -166,8 +162,7 @@ _A collection of my recent web development projects and experiments._
 </div>
 
 
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-751%20hrs%2020%20mins-blue?style=flat)
+
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.08%20million%20lines%20of%20code-blue?style=flat)
 
