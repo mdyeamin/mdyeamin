@@ -6,7 +6,7 @@
   <a href="">
     <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=4000&pause=500&color=FF58C4&center=true&vCenter=true&width=600&lines=Hi,+this+is+Yeamin...;But,+you+can+call+me...+;JavaScript+Lover...❤;Thanks+you+for;visiting+my+GitHub" alt="Typing SVG" />
   </a>
-  
+
 
   <h2 align="center">
     <a href="">
@@ -29,9 +29,9 @@
       </td>
     </tr>
   </table>
-
- 
 </div>
+
+
 
 <div align="center" style="margin-top:50px">
 
@@ -94,7 +94,6 @@ _Building robust applications with a modern and scalable stack._
 
 </div>
 
-
 ---
 
 ### 🌐 Connect with Me
@@ -106,10 +105,6 @@ _Building robust applications with a modern and scalable stack._
   <a href="https://medium.com/@coderyeamin"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
   <a href="mailto:coderyeamin@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
-
-
-
-
 
 <div align="center" style="margin-top:50px">
 
@@ -126,17 +121,7 @@ _A collection of my recent web development projects and experiments._
 
 </div>
 
----
-
-
-<!-- ![Stats](https://github-readme-stats.vercel.app/api?username=mdyeamin&show_icons=true&theme=tokyonight&cache_seconds=1800)
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdyeamin&layout=compact&theme=tokyonight&cache_seconds=1800) -->
-
-
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mdyeamin&theme=tokyo-night)
-
 
 <div align="center">
   <table border="0">
@@ -145,15 +130,9 @@ _A collection of my recent web development projects and experiments._
     </tr>
     
   </table>
- 
 
 
- 
 </div>
-
-
-
-
 
 <div align="center">
   <img height="100" src="img/hey.gif" />
@@ -161,70 +140,65 @@ _A collection of my recent web development projects and experiments._
   <img src="https://user-images.githubusercontent.com/60597290/152519754-992acfbc-39df-489d-a01a-72ea86a08996.png" height="50" />
 </div>
 
-
-
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.08%20million%20lines%20of%20code-blue?style=flat)
 
-**I'm an Early 🐤** 
+**I'm an Early 🐤**
 
 ```text
-🌞 Morning                170 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.51 % 
-🌆 Daytime                734 commits         ███████████░░░░░░░░░░░░░░   45.39 % 
-🌃 Evening                516 commits         ████████░░░░░░░░░░░░░░░░░   31.91 % 
-🌙 Night                  197 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.18 % 
+🌞 Morning                170 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.51 %
+🌆 Daytime                734 commits         ███████████░░░░░░░░░░░░░░   45.39 %
+🌃 Evening                516 commits         ████████░░░░░░░░░░░░░░░░░   31.91 %
+🌙 Night                  197 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.18 %
 ```
-📅 **I'm Most Productive on Tuesday** 
+
+📅 **I'm Most Productive on Tuesday**
 
 ```text
-Monday                   288 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.81 % 
-Tuesday                  324 commits         █████░░░░░░░░░░░░░░░░░░░░   20.04 % 
-Wednesday                179 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.07 % 
-Thursday                 208 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.86 % 
-Friday                   160 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.89 % 
-Saturday                 199 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.31 % 
-Sunday                   259 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.02 % 
+Monday                   288 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.81 %
+Tuesday                  324 commits         █████░░░░░░░░░░░░░░░░░░░░   20.04 %
+Wednesday                179 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.07 %
+Thursday                 208 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.86 %
+Friday                   160 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.89 %
+Saturday                 199 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.31 %
+Sunday                   259 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.02 %
 ```
 
-
-📊 **This Week I Spent My Time On** 
+📊 **This Week I Spent My Time On**
 
 ```text
 🕑︎ Time Zone: Asia/Dhaka
 
-💬 Programming Languages: 
-JavaScript               31 hrs 43 mins      ███████████████████████░░   92.24 % 
-JSON                     1 hr 28 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 % 
-Bash                     30 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.48 % 
-Markdown                 28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.38 % 
-Git Config               5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
+💬 Programming Languages:
+JavaScript               31 hrs 43 mins      ███████████████████████░░   92.24 %
+JSON                     1 hr 28 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 %
+Bash                     30 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.48 %
+Markdown                 28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.38 %
+Git Config               5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
 
-🔥 Editors: 
-VS Code                  34 hrs 23 mins      █████████████████████████   100.00 % 
+🔥 Editors:
+VS Code                  34 hrs 23 mins      █████████████████████████   100.00 %
 
-🐱‍💻 Projects: 
-skill-sphere             28 hrs 36 mins      █████████████████████░░░░   83.16 % 
-data-fetch-from-backend  2 hrs 20 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.82 % 
-express-user-management  1 hr 29 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.33 % 
-skill-sphere-server      1 hr 21 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 % 
-node-server              23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.14 % 
+🐱‍💻 Projects:
+skill-sphere             28 hrs 36 mins      █████████████████████░░░░   83.16 %
+data-fetch-from-backend  2 hrs 20 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.82 %
+express-user-management  1 hr 29 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.33 %
+skill-sphere-server      1 hr 21 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 %
+node-server              23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.14 %
 
-💻 Operating System: 
-Linux                    34 hrs 23 mins      █████████████████████████   100.00 % 
+💻 Operating System:
+Linux                    34 hrs 23 mins      █████████████████████████   100.00 %
 ```
 
-**I Mostly Code in JavaScript** 
+**I Mostly Code in JavaScript**
 
 ```text
-JavaScript               44 repos            ███████████░░░░░░░░░░░░░░   45.83 % 
-HTML                     42 repos            ███████████░░░░░░░░░░░░░░   43.75 % 
-CSS                      4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
-TypeScript               4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
-Python                   1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.04 % 
+JavaScript               44 repos            ███████████░░░░░░░░░░░░░░   45.83 %
+HTML                     42 repos            ███████████░░░░░░░░░░░░░░   43.75 %
+CSS                      4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 %
+TypeScript               4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 %
+Python                   1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.04 %
 ```
 
+Last Updated on 07/05/2026 03:52:58 UTC
 
-
-
- Last Updated on 07/05/2026 03:52:58 UTC
 <!--END_SECTION:waka-->
